@@ -1,8 +1,8 @@
 ## Hey, I'm Maria Júlia!
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mariajuliadantas&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajuliadantas&layout=compact&langs_count=16&theme=radical"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=mariajuliadantas&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajuliadantas&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
 
