@@ -13,4 +13,16 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
+
+ 
+   <h1 align="center">Contact With Me:</h1>
+    <a href = "mailto: mariajulia.dantas.08@gmail.com">
+      <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/maria-j%C3%BAlia-dantas-21216a2b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJGX6nE%2FTSMGv3NmqBkyHEQ%3D%3D">
+      <img width="25" src="https://github.com/LuigiGf/LuigiGf/raw/main/linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/mariajuliadantasm_/">
+      <img width="25" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
+    </a>
+</div>
