@@ -26,4 +26,4 @@
       <img width="25" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
 </div>
-![Snake animation](https://github.com/mariajuliadantas/mariajuliadantas/blob/output/github-contribution-grid-snake.svg)
+
