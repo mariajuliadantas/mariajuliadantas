@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24,30,6&height=160&section=header&animation=twinkling)
 
-![Maria Júlia Dantas — SOC · Blue Team · GRC](./assets/banner.png)
-
-  
 
 
 ![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=90&lines=Maria+J%C3%BAlia+Dantas;Cybersecurity+%7C+SOC+%7C+GRC;Detec%C3%A7%C3%A3o.+Prioriza%C3%A7%C3%A3o.+Corre%C3%A7%C3%A3o.;Always+learning.+Always+shipping.)
@@ -17,35 +14,12 @@
 
 ---
 
-**Olá! Eu sou a Maria Júlia** 
 
 Estudante de **Ciência da Computação** na **CESAR School** · 6º período  
 Construindo carreira em **Segurança da Informação** com foco em  
 **SOC / Blue Team** · **gestão de vulnerabilidades** · **GRC** · **setor financeiro**
 
 ![Recruiter pitch](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Em+10+segundos:+eu+transformo+log+em+detec%C3%A7%C3%A3o.;Invent%C3%A1rio+%E2%86%92+scan+%E2%86%92+prioriza%C3%A7%C3%A3o+%E2%86%92+corre%C3%A7%C3%A3o+%E2%86%92+playbook.;J%C3%A1+entreguei+projeto+real+de+vulnerabilidades+no+Sicoob.)
-
----
-
-
-
-## ⚡ Snapshot para recrutadores
-
-> O que eu entrego: **visão de analista + execução técnica.** Não fico só no laboratório — documento, priorizo e fecho o ciclo.
-
-
-|                               |                                                                                                                                      |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 🎓 **Formação**               | Ciência da Computação · CESAR School · 6º período                                                                                    |
-| 🏦 **Setor-alvo**             | Bancos, fintechs e ambientes regulados                                                                                               |
-| 🥇 **Prova em campo**         | Summer Job no **Sicoob** — varredura e gestão de vulnerabilidades (TypeScript + Docker) · **vice-campeã**                            |
-| 🛡️ **Prova técnica pública** | [SSH Brute Force Detector](https://github.com/mariajuliadantas/ssh-bruteforce-detector) — detecção Blue Team mapeada em MITRE ATT&CK |
-| 🧠 **Como trabalho**          | Inventário → scan → priorização → correção → documentação. IA no fluxo (Cursor, Claude), sempre com revisão crítica                  |
-| 🎯 **Busco**                  | Estágio / junior em SOC, vuln management ou GRC                                                                                      |
-
-
----
-
 
 
 ## 👩‍💻 Sobre mim
@@ -78,22 +52,7 @@ mariajulia 🔐 SOC-track
 ## 🏆 Certificações
 
 ![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Google%20Cloud%20%2F%20Simplilearn-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)![AWS Academy](https://img.shields.io/badge/Generative%20AI%20Foundations-AWS%20Academy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![IBSEC](https://img.shields.io/badge/Ciberseguran%C3%A7a%20na%20Era%20da%20IA-IBSEC-7c3aed?style=for-the-badge)
-
----
-
-
-
-## 📌 Em destaque
-
-![SSH Brute Force Detector](https://github-readme-stats.vercel.app/api/pin/?username=mariajuliadantas&repo=ssh-bruteforce-detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E6EDF3) [](https://github.com/mariajuliadantas/DOCKA)![DOCKA](https://github-readme-stats.vercel.app/api/pin/?username=mariajuliadantas&repo=DOCKA&theme=radical&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E6EDF3)[
-
-
-| Projeto                                                                                     | O que um recrutador vê                                                                                               |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Summer Job — Sicoob**                                                                     | Sistema de varredura e gestão de vulnerabilidades (TypeScript + Docker) em equipe multidisciplinar · **vice-campeã** |
-| **[SSH Brute Force Detector](https://github.com/mariajuliadantas/ssh-bruteforce-detector)** | Detector Blue Team: `auth.log` → correlação por IP → alerta. Mapeado em MITRE T1110                                  |
-| **Lab SOC + VM** *(em construção)*                                                          | Ciclo completo: inventário → scan → priorização → correção → alerta → playbook                                       |
-
+                            |
 
 ---
 
@@ -101,11 +60,10 @@ mariajulia 🔐 SOC-track
 
 ## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajuliadantas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E6EDF3&ring_color=A78BFA)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajuliadantas&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3&langs_count=8)
+
 
 ![GitHub streak](https://streak-stats.demolab.com?user=mariajuliadantas&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mariajuliadantas&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8)
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariajuliadantas&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ffffff&area=true&hide_border=true)
 
